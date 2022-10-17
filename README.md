@@ -1,6 +1,6 @@
 ### Hi, I'm Anuoluwapo Akinseye 👋
 
-[![Visitor](https://page-views.glitch.me/badge?page_id=an-apluss.an-apluss)]
+![Visitor](https://page-views.glitch.me/badge?page_id=an-apluss.an-apluss)
 
 I'm a Software Developer with more than 3 years working experience in bulding financial solutions(fintech)
 
